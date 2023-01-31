@@ -2,7 +2,7 @@
   "name": "practice",
   "version": "0.1.0",
   "private": true,
-  "homepage": "http://bikkibro.github.io/Todo_list.github.io",
+  "homepage": "http://bikkibro.github.io/react-todo-list",
   "dependencies": {
     "@testing-library/jest-dom": "^5.16.5",
     "@testing-library/react": "^13.4.0",
